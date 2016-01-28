@@ -15,7 +15,7 @@
   </properties>
 
   <modules>
-    <module>desert-commons-dcd</module>
     <module>desert-commons-dcd-api</module>
+    <module>desert-commons-dcd</module>
   </modules>
 </project>
